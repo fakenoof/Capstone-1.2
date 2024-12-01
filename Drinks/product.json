@@ -1,0 +1,28 @@
+[
+    {
+        "id": 19,
+        "name": "Coca-Cola",
+        "description": "12 oz and pack",
+        "price": 200,
+        "image": "../image/drinks/coke.jpg"
+
+    },
+    {
+        "id": 20,
+        "name": "Mountain-Dew",
+        "description": "12 oz and pack",
+        "price": 200,
+        "image": "../image/drinks/MD.jpg"
+
+    },
+    {
+        "id": 21,
+        "name": "Sprite",
+        "description": "12 oz and pack",
+        "price": 200,
+        "image": "../image/drinks/sprite.png"
+
+    }
+    
+  
+]
