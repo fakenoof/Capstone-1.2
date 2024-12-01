@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "name": "Afritada",
+        "description": "Good for 10 pax",
+        "price": 1200,
+        "image": "../image/menus/Afritada.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "Beef Kare-kare",
+        "description": "Good for 10 pax",
+        "price": 1520,
+        "image": "../image/menus/beef-kare-kare.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Fried Chicken",
+        "description": "Good for 10 pax",
+        "price": 500,
+        "image": "../image/menus/FC.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "kaldereta",
+        "description": "Good for 10 pax",
+        "price": 1200,
+        "image": "../image/menus/Kaldereta.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pancit Gisado",
+        "description": "Good for 10 pax",
+        "price": 1200,
+        "image": "../image/menus/gisado.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Menudo",
+        "description": "Good for 10 pax",
+        "price": 1200,
+        "image": "../image/menus/Menudo.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Tuna-Paksiw",
+        "description": "Good for 10 pax",
+        "price": 1500,
+        "image": "../image/menus/Tuna_Paksiw.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Papaitan",
+        "description": "Good for 10 pax",
+        "price": 1500,
+        "image": "../image/menus/papaitan.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Macaroni-Salad",
+        "description": "Good for 10 pax",
+        "price": 1000,
+        "image": "../image/menus/macaroni-salad.jpg"
+    }
+
+  
+]
