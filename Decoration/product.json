@@ -1,0 +1,53 @@
+[
+    {
+        "id": 22,
+        "name": "Merigold",
+        "description": "All chair and table ",
+        "price": 2000,
+        "image": "../image/design/1.avif"
+
+    },
+    {
+        "id": 23,
+        "name": "Rose",
+        "description": "All chair and table ",
+        "price": 2000,
+        "image": "../image/design/2.jpg"
+
+    },
+    {
+        "id": 24,
+        "name": "Pink",
+        "description": "All chair and table ",
+        "price": 2000,
+        "image": "../image/design/3.jpg"
+
+    },
+    {
+        "id": 25,
+        "name": "White #1",
+        "description": "All chair and table ",
+        "price": 2000,
+        "image": "../image/design/4.jpg"
+
+    },
+    {
+        "id": 26,
+        "name": "Purple",
+        "description": "All chair and table ",
+        "price": 2000,
+        "image":"../image/design/5.webp"
+
+    },
+    {
+        "id": 27,
+        "name": "White #2",
+        "description": "All chair and table ",
+        "price": 2000,
+        "image": "../image/design/6.jpg"
+
+    }
+    
+    
+  
+]
