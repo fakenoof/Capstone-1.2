@@ -1,0 +1,69 @@
+[
+    {
+        "id": 10,
+        "name": "Banana-Lumpia",
+        "description": "20 pcs",
+        "price": 500,
+        "image": "../image/dessert/Banana-Lumpia.webp"
+
+    },
+    {
+        "id": 11,
+        "name": "Bico",
+        "description": "20 slices",
+        "price": 500,
+        "image": "../image/dessert/Bico.png"
+    },
+    {
+        "id": 12,
+        "name": "Maja-Blanca",
+        "description": "20 slices",
+        "price": 500,
+        "image": "../image/dessert/maja-blanca.jpg"
+    }
+    ,
+    {
+        "id": 13,
+        "name": "Leche-Flan",
+        "description": "20 slices",
+        "price": 500,
+        "image": "../image/dessert/flan.webp"
+    },
+    {
+        "id": 14,
+        "name": "Ube Halaya",
+        "description": "20 pcs",
+        "price": 500,
+        "image": "../image/dessert/purple-yam.webp"
+    },
+    {
+        "id": 15,
+        "name": "Ube Cookies",
+        "description": "20 pcs",
+        "price": 500,
+        "image": "../image/dessert/Ube-Cookies.webp"
+    },
+    {
+        "id": 16,
+        "name": "Halo-Halo",
+        "description": "8 oz",
+        "price": 40,
+        "image": "../image/dessert/halohalo.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Mamon",
+        "description": "20 pcs",
+        "price": 500,
+        "image": "../image/dessert/mamon.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Riceball",
+        "description": "20 pcs",
+        "price": 400,
+        "image": "../image/dessert/rice ball.jpg"
+    }
+
+  
+]
